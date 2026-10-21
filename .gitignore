@@ -1,0 +1,9 @@
+# Xmake build artifacts
+.xmake/
+build/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.user
+*.suo
